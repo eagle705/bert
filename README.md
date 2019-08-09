@@ -7,8 +7,7 @@ Simple implementation of BERT (TensorFlow 2.0 style) https://arxiv.org/abs/1810.
 ![learning_log](./assets/learning_log.png)
 
 ### ToDo
-- Beam search
-- Label Smoothing
+- mecab tokenizer
 - Multiprocessing (for preprocessing NSP data in parallel)  
 
 ### Requirements
